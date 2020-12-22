@@ -39,7 +39,7 @@ Author: Stéphane Catalanotto
     <property name="window_position">center</property>
     <property name="default_width">800</property>
     <property name="default_height">600</property>
-    <property name="icon">assets/icons/caf_icon-24x24.png</property>
+    <property name="icon">assets/icons/ked-24x24.png</property>
     <property name="has_resize_grip">True</property>
     <child>
       <placeholder/>
