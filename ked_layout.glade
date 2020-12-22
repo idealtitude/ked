@@ -34,7 +34,8 @@ Author: Stéphane Catalanotto
   <!-- interface-copyright idealtitude -->
   <!-- interface-authors St\303\251phane Catalanotto -->
   <object class="GtkWindow">
-    <property name="can_focus">False</property>
+    <property name="visible">True</property>
+    <property name="can_focus">True</property>
     <property name="title" translatable="yes">KED</property>
     <property name="window_position">center</property>
     <property name="default_width">800</property>
